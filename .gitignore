@@ -19,10 +19,7 @@ env/
 .vscode/
 .idea/
 
-# Data
-*.mat
-*.npy
-data/
+# Data (tracked via Git LFS)
 
 # Local backups
 .git_backup/
